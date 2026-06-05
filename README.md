@@ -1,4 +1,4 @@
 # learning-project
 this is my first Git Repository.
 <br>
-Auther-Shikha Maurya
+Auther-Shikha Maurya(learner)
